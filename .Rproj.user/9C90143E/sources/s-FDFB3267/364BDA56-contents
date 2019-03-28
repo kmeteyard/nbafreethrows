@@ -1,0 +1,10 @@
+Package: nbafreethrows
+Type: Package
+Title: Holds data on NBA free throw
+Version: 0.1.0
+Author: Kieran Meteyard
+Maintainer: The package maintainer <kieran.meteyard@gmail.com>
+Description: Holds data on NBA free throws
+License: CCO
+Encoding: UTF-8
+LazyData: true
